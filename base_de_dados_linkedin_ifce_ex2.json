@@ -1,0 +1,33 @@
+[{
+    "_id": {
+      "$oid": "830143b0e6206b21d1306738"
+    },
+    "nome": "Manuela Ribeira da Costa Silva",
+    "matricula": {
+      "$numberLong": "20122011030059"
+    },
+    "anoNasc": "27/06/1987",
+    "contato": [
+      {
+        "email": "manuela.ribeira123@gmail.com",
+        "telefone": "(85) 12345-2206",
+        "perfilLinkedin": "https://www.linkedin.com"
+      }
+    ],
+    "informacoes": [
+      {
+        "experiencia": "Estágio",
+        "formAcademica": "Universidade Federal do Ceará",
+        "cursoTecnico": "Técnico Integrado em Química",
+        "cargoAtual": "Graduanda em Farmácia UFC\n"
+      }
+    ],
+    "formacao": [
+      {
+        "form1": "Universidade Federal do Ceará",
+        "form2": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+        "form3": "...",
+        "form4": "...\n"
+      }
+    ]
+  }]

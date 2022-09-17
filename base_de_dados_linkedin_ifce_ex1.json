@@ -1,0 +1,43 @@
+[{
+  "_id": {
+    "$oid": "730143b0e6206b21d1306736"
+  },
+  "nome": "Francisco Charles Nascimento",
+  "matricula": {
+    "$numberLong": "20292011040039"
+  },
+  "ano_Nasc": "27/06/1978",
+  "contato": [
+    {
+      "email": "francisco.charles123@gmail.com",
+      "telefone": "(85) 12345-5205",
+      "perfilLinkedin": "https://www.linkedin.com/pulse/topics/home/?trk=homepage-basic_guest_nav_menu_discover"
+    }
+  ],
+  "informacoes": [
+    {
+      "experiencia": "Professor",
+      "formAcademica": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+      "cursoTecnico": "Técnico Integrado em Informática",
+      "cargoAtual": "Professor de Matemática - IFCE\n"
+    }
+  ],
+  "form_academica1": [
+    {
+      "form1": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+      "sobre1": "Mestrado, Ciência da Computação"
+    }
+  ],
+  "form_academica2": [
+    {
+      "form2": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+      "sobre2": "Bacharelado em Ciência da Computação,"
+    }
+  ],
+  "form_academica3": [
+    {
+      "form3": "Instituto Federal de Educação, Ciência e Tecnologia do Ceará",
+      "sobre3": "Tecnólogo em Mecatrônica Industrial,"
+    }
+  ]
+}]
